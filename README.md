@@ -2,7 +2,7 @@
 
 📍 **Islamabad, Pakistan** | 💻 **Software Engineer** | 🚀 **Founder @ [MDKVA](https://mdkva.com)** 
 
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=google-gemini&logoColor=white) ![Automation](https://img.shields.io/badge/-Automation-000000?style=flat-square&logo=gitbook&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 
 > Architecting **"Quiet UI"** and digital sanctuaries. I build intentional, human-centered technology designed to reclaim focus and simplify the noise of everyday life. Currently merging logic with design at **MDK Visionary Automations**.
 
@@ -57,11 +57,12 @@
 ### 🤝 Let's Build Something Meaningful
 
 I am always open to visionary conversations regarding:
-- **Strategic Partnerships:** Integrating MDKVA APIs into broader tech ecosystems.
-- **Human-Centered Design:** Discussing the intersection of ethics, faith, and technology.
+- **Human-Centered Design:** Consulting on the intersection of ethics, faith, and technology.
+- **Open Source:** Contributing to projects that prioritize digital minimalism.
+- **API Integration:** Bringing MDKVA into your existing digital ecosystem.
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdanyalkayani) [![Website](https://img.shields.io/badge/-Contact-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://mdanyalkayani.com/contact) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danyal@mdkva.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danyalmdkayani) [![Website](https://img.shields.io/badge/-Contact-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://mdanyalkayani.com/contact) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danyal@mdkva.com)
 
 > *"Simplifying Life with Human-Centered Tech."*
